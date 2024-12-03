@@ -131,9 +131,6 @@ cv2.imshow("Image", img)
 - Integrate with cloud storage for real-time data monitoring.
 - Use a more optimized tracking algorithm for faster performance.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For collaboration or inquiries, feel free to reach out through my [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lakshya-arora-76a567259/)).
 
